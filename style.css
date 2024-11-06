@@ -60,35 +60,6 @@ body{
     font-size: 20px;background-color: white;border-radius: 10px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width:800px){
     header{font-size: 60%;
         
@@ -107,16 +78,6 @@ body{
         font-size: 15px;
     }
 }
-
-
-
-
-
-
-
-
-
-
 @media(max-width:578px){
     header{
         font-size: 30%;
