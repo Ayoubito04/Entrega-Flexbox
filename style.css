@@ -14,7 +14,7 @@ body{
 .Digitalagency{
     display: flex;gap: 40px;border: 1px solid black;
     border-radius: 10px;background-color: white;
-    border: none;
+    border: none;flex-wrap: wrap;
 }
 .Digitalagency h1{
     color: blue;
@@ -22,7 +22,7 @@ body{
 .Digitalagency ul{
     display: flex;list-style: none;gap: 50px;
     justify-content: center;align-items: center;
-    position: sticky;left: 400px;
+    position: sticky;left: 400px;flex-wrap: wrap;
 }
 .Digitalagency button{
     background-color: blue;
@@ -42,7 +42,7 @@ body{
 }
 .Contenedor ul{
     list-style: none;display: flex;gap: 50px;justify-content: center;
-    align-items: center;
+    align-items: center;flex-wrap: wrap;
 }
 .Contenedor button{
     padding-top: 10px;padding-bottom:10px;
